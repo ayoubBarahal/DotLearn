@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\oumaima rhaya\\.nuget\\packages\\": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oumaima rhaya\\source\\repos\\DotLearn\\DotLearn\\DotLearn.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\OneDrive\\Documents\\DotLearn\\DotLearn\\DotLearn.csproj",
       "projectName": "DotLearn",
-      "projectPath": "C:\\Users\\oumaima rhaya\\source\\repos\\DotLearn\\DotLearn\\DotLearn.csproj",
-      "packagesPath": "C:\\Users\\oumaima rhaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oumaima rhaya\\source\\repos\\DotLearn\\DotLearn\\obj\\",
+      "projectPath": "C:\\Users\\hp\\OneDrive\\Documents\\DotLearn\\DotLearn\\DotLearn.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\OneDrive\\Documents\\DotLearn\\DotLearn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\oumaima rhaya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
